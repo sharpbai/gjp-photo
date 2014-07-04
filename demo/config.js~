@@ -1,0 +1,13 @@
+/*module.exports = {
+    'ACCESS_KEY': 'G4ZwfSWrMrvwgXh9730sPygG-vR8ay-225eZQlGO',
+    'SECRET_KEY': 'b11KuKUo6AY90MORukQbcmgQWiV4J3E9EhT1fePx',
+    'Bucket_Name': 'sharpbai-gjp-photo',
+    'Port': 18080
+}*/
+
+module.exports = {
+    'ACCESS_KEY': 'EGNMWujXSXCYPtR6oT-9v5x8COWETXXlyRA70bvZ',
+    'SECRET_KEY': 'IDo0xxHkPgk5Kh4NT9wxm0TwRcZJtk-VH5fKk_tM',
+    'Bucket_Name': 'duobei-docs',
+    'Port': 18080
+}
